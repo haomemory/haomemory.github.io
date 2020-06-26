@@ -1,10 +1,10 @@
 title: SIMPLE                        # title of the site
 description: A Jekyll Theme          # description of the site
-url: https://professordeng.com       # domain
-baseurl: /simple                     # root directory
+url: https://haomemory.github.io       # domain
+baseurl: /master                     # root directory
 
 # Email address
-email: professordeng@qq.com
+email: 
 
 # Path of site resources
 img: /simple/assets/img 
